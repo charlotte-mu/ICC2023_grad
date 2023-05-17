@@ -7,7 +7,7 @@ test pattern all pass
 
 VCS Simulation Report
 
-*******************************
+//*******************************
 
 **   Finish Simulation       **
 
@@ -15,4 +15,4 @@ VCS Simulation Report
 
 **   Cover total = 170/170   **
 
-*******************************
+//*******************************
