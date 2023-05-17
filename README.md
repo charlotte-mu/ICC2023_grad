@@ -7,12 +7,10 @@ test pattern all pass
 
 VCS Simulation Report
 
-//*******************************
 
-**   Finish Simulation       **
+   Finish Simulation       
 
-**   RUN CYCLE =      61665  **
+   RUN CYCLE =      61665  
 
-**   Cover total = 170/170   **
+   Cover total = 170/170   
 
-//*******************************
