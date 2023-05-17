@@ -4,3 +4,15 @@
 2023 IC Design Contest Cell-Based IC Design Category for Graduate Level
 
 test pattern all pass
+
+VCS Simulation Report
+
+*******************************
+
+**   Finish Simulation       **
+
+**   RUN CYCLE =      61665  **
+
+**   Cover total = 170/170   **
+
+*******************************
